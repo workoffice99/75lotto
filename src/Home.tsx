@@ -95,7 +95,7 @@ const ImageWrap = styled.div`
   aspect-ratio: 1 / 1;
   width: 100%;
   background-image: url(https://raw.githubusercontent.com/sidhubasho/lotto75/main/collection.png);
-  background-size: cover;
+  background-size: 100% 100%;
   border-radius: 16px;
   margin-top:50px
 `
